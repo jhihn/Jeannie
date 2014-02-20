@@ -5,9 +5,9 @@ Jeannie
 
 USAGE
 =====
-Run 
-# javap -constants some.jar > classes.txt
-# python jni-qt.py
+Run:
+javap -constants some.jar > classes.txt
+python jni-qt.py
 
 Then examine the files generated in the directory. Include these in your project. 
 
